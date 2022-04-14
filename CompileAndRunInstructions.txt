@@ -1,0 +1,19 @@
+Problem 1)
+  First you must download the file called HW3_Problem1.java and save it.
+  Then, to compile the program, run the following command:
+  
+    javac HW3_Problem1.java
+  
+  Then, to run the program, run the following command:
+    
+    java HW3_Problem1
+ 
+Problem 2)
+  First you must download the file called HW3_Problem2.cpp and save it.
+  Then, to compile the program, run the following command:
+  
+    g++ -std=c++11 HW3_Problem2.cpp -pthread -O0
+  
+  Then, to run the program, run the following command:
+    
+    ./a.out
